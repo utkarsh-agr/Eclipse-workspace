@@ -5,6 +5,14 @@
     <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.tut.Student"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Embeddable"/>
+    <fullyQualifiedTypeName name="com.tut.Certificate"/>
     <fullyQualifiedTypeName name="org.hibernate.Session"/>
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
 </qualifiedTypeNameHistroy>
