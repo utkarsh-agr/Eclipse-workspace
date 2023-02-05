@@ -13,5 +13,9 @@
 		<mapping class="com.tut.Address"/>
 		<mapping class="com.map.Question"/>
 		<mapping class="com.map.Answer"/>
+		<mapping class="com.map2.QuestionClass"/>
+		<mapping class="com.map2.AnswerClass"/>
+		<mapping class="com.map3.Project"/>
+		<mapping class="com.map3.Employee"/>
 	</session-factory>
 </hibernate-configuration>
